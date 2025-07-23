@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+---
+title: "About"
+---
+
+About this site
+=======
+---
+title: "About"
+---
+
+About this site
+>>>>>>> d2fbd3e185d19179dd1b6589697bded0a93dcb58
